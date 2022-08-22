@@ -1,7 +1,12 @@
 __6 Dof Pose Estimation__
 
-    Focal length of the camera is unknown so camera is calibrated using initial guess and given 3D to 2D points.
+    Focal length of the camera is unknown so camera is calibrated using initial guess
+    and given 3D to 2D points.
 
+__Run__
+
+    python poseEstimation.py
+   
 __Output__
 
 ![estimatedImg1](https://user-images.githubusercontent.com/94297285/169706211-7743390f-38ae-40c9-856f-0dfb9c62d317.jpg)
