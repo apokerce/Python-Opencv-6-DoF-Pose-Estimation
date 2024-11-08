@@ -1,7 +1,6 @@
 ### 6 Dof Pose Estimation
-```shell
 Focal length of the camera is unknown so camera is calibrated using initial guess and given 3D to 2D points.
-```
+
 ### Run
 ```shell
 python poseEstimation.py
